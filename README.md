@@ -72,7 +72,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![Screenshot 2024-04-03 113115](https://github.com/Vinishofficial/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146931793/4f8b5de5-7211-4c51-8b24-b19d897bba02)
 
 ## data prediction
-![Screenshot 2024-04-03 113131](https://github.com/Vinishofficial/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/146931793/d86e346b-3bb6-4058-9fbc-8cef5666f852)
+![cj](https://github.com/Bhuvanesh-Suresh/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145742661/63fa6a03-1ef9-44ed-9cfa-1537c3fa2fb9)
 
 
 
